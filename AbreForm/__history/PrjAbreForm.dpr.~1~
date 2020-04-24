@@ -1,0 +1,18 @@
+program PrjAbreForm;
+
+uses
+  Vcl.Forms,
+  untPrincipal in 'untPrincipal.pas' {Form1},
+  untCliente in 'untCliente.pas' {frmCliente},
+  untProduto in 'untProduto.pas' {frmProduto};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TfrmCliente, frmCliente);
+  Application.CreateForm(TfrmProduto, frmProduto);
+  Application.Run;
+end.

@@ -1,0 +1,33 @@
+object frmReceber: TfrmReceber
+  Left = 0
+  Top = 0
+  Caption = 'frmReceber'
+  ClientHeight = 255
+  ClientWidth = 600
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 600
+    Height = 41
+    Align = alTop
+    Caption = 'Contas a Receber'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clBlue
+    Font.Height = -24
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 0
+    ExplicitLeft = -81
+    ExplicitWidth = 528
+  end
+end

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/04/23 19:57:22.125,=C:\Users\Luiz Tominaga\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/23 19:59:02.774,=C:\Users\Luiz Tominaga\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/04/23 19:59:20.882,=C:\Users\Luiz Tominaga\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/04/23 20:01:42.075,C:\Users\Luiz Tominaga\Desktop\Teste\untPrincipal.pas=C:\Users\Luiz Tominaga\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/23 20:01:42.075,C:\Users\Luiz Tominaga\Desktop\Teste\untPrincipal.dfm=C:\Users\Luiz Tominaga\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/04/23 20:01:49.402,C:\Users\Luiz Tominaga\Desktop\Teste\untCliente.dfm=C:\Users\Luiz Tominaga\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2020/04/23 20:01:49.402,C:\Users\Luiz Tominaga\Desktop\Teste\untCliente.pas=C:\Users\Luiz Tominaga\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/04/23 20:01:55.618,C:\Users\Luiz Tominaga\Desktop\Teste\untProduto.dfm=C:\Users\Luiz Tominaga\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2020/04/23 20:01:55.618,C:\Users\Luiz Tominaga\Desktop\Teste\untProduto.pas=C:\Users\Luiz Tominaga\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/04/23 20:02:04.442,C:\Users\Luiz Tominaga\Desktop\Teste\PrjAbreForm.dproj=C:\Users\Luiz Tominaga\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/04/23 21:14:46.114,=C:\Users\Luiz Tominaga\Desktop\Teste\Unit1.pas</Transaction>
+    <Transaction>2020/04/23 21:15:23.193,C:\Users\Luiz Tominaga\Desktop\Teste\untReceber.pas=C:\Users\Luiz Tominaga\Desktop\Teste\Unit1.pas</Transaction>
+    <Transaction>2020/04/23 21:15:23.193,C:\Users\Luiz Tominaga\Desktop\Teste\untReceber.dfm=C:\Users\Luiz Tominaga\Desktop\Teste\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
